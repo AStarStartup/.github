@@ -1,4 +1,4 @@
-Workspace for Startup, or A* Startup (pronounced "A Star Startup") that contains administrative files and every AStarStartup repository as a submodule.
+#
 
 ## QuickStart
 
