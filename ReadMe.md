@@ -1,6 +1,4 @@
-# [AStarStartup](https://github.com/AStarStartup)
-
-Workspace for Startup, or A* Startup, or "A Star" Startup, that contains administrative files and every AStarStartup repository as a submodule.
+Workspace for Startup, or A* Startup (pronounced "A Star Startup") that contains administrative files and every AStarStartup repository as a submodule.
 
 ## QuickStart
 
@@ -12,4 +10,4 @@ git clone https://github.com/AStarStartup/AStarStartup --recursive
 
 ## License
 
-Copyright 2014-21 © [AStartup](https://astartup.net); all rights reserved.
+Copyright 2014-23 [AStartup](https://astartup.net); all rights reserved.
